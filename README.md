@@ -1,5 +1,5 @@
 # Teena_JS_Assignment3
-This assignement contain 6 files.
+This assignement contain 5 files.
 
 assignment.js - tax calculate based on type and percentage.
 
